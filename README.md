@@ -30,10 +30,10 @@ No desenvolvimento, utilizo **Python** com os frameworks **Flask** e **FastAPI**
 
 ### 📊 Performance & Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfredo-allan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Github Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfredo-allan&theme=tokyonight" alt="GitHub Streak" height="180" />
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alfredo-allan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfredo-allan&theme=tokyonight" height="180em" />
+</div>
 
 ---
 
