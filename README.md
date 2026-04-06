@@ -1,71 +1,82 @@
-# Alfredo Allan Teixeira Sousa
-
-**Full Stack Developer | Cybersecurity Student**
-
-Sou desenvolvedor Full Stack com foco em segurança e atualmente curso Análise e Desenvolvimento de Sistemas. Estudo Cibersegurança em Nuvem AWS pelo SENAI e busco unir desenvolvimento limpo com boas práticas de proteção de sistemas.
-
-Acredito que um código bem escrito é o primeiro passo para um sistema seguro. Por isso, combino meus conhecimentos em desenvolvimento web com fundamentos de segurança da informação.
-
-- 🎯 Atualmente focado em:  
-  - Python & Flask  
-  - React & Next.js  
-  - AWS Security  
-  - Shell Script  
-  - Linux/Kali Linux  
-
-- 🛡️ Background técnico: Desenvolvimento Full Stack com ênfase em segurança e boas práticas.  
-
-- 🚀 Buscando aplicar Segurança em Nuvem e Desenvolvimento Seguro para resolver problemas reais.
-
----
-
-## 🛠️ Tech Stack
+# 👋 Olá, eu sou Alfredo Allan
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,flask,django,nodejs,express" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,firebase" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=aws,linux,kali,git,github,docker,vscode" />
+
+💻 **Full Stack Developer | 🔐 Cybersecurity Student**
+
+<img src="https://readme-typing-svg.herokuapp.com?color=2F81F7&center=true&vCenter=true&lines=Desenvolvimento+Seguro;Cloud+Security+AWS;Full+Stack+Developer;Linux+%26+Cybersecurity" />
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Sobre mim
+
+Sou desenvolvedor **Full Stack** com foco em **segurança** e atualmente curso **Análise e Desenvolvimento de Sistemas**.
+
+Minha abordagem é simples: **código limpo + segurança desde o início = sistemas confiáveis**.
+
+---
+
+## ⚡ Stack Principal
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alfredo-allan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredo-allan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" />
+
 </div>
 
 ---
 
-## 📈 Most Used Languages
+## 🚀 Atualmente focado em
+
+```bash
+> Python + Flask
+> React + Next.js
+> AWS Security
+> Linux / Kali Linux
+> Shell Script
+```
+
+---
+
+## 📊 Estatísticas (tempo real)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredo-allan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alfredo-allan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://streak-stats.demolab.com?user=alfredo-allan&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredo-allan&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-## 🔗 Onde me encontrar
+## 🌐 Contato
 
-📧 kali.sonic.developer@gmail.com  
-📞 (11) 99410-2660  
-📍 São Paulo - SP  
-💼 Disponível para oportunidades  
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfredo-allan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/alfredo-allan)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511994102660)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/alfredo-allan)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/alfredo-allan)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/5511994102660)
+
+📧 [kali.sonic.developer@gmail.com](mailto:kali.sonic.developer@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alfredo-allan&color=2F81F7&style=flat-square" alt="Profile views" />
-  
-  *"Código seguro, sistema confiável."*
-</div>
 
+<img src="https://komarev.com/ghpvc/?username=alfredo-allan&style=for-the-badge&color=blue" />
+
+</div>
