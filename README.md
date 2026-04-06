@@ -31,8 +31,8 @@ No desenvolvimento, utilizo **Python** com os frameworks **Flask** e **FastAPI**
 ### 📊 Performance & Analytics
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfredo-allan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfredo-allan&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=alfredo-allan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfredo-allan&theme=tokyonight" height="180" />
 </div>
 
 ---
