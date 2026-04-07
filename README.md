@@ -32,7 +32,6 @@ No desenvolvimento, utilizo **Python** com os frameworks **Flask** e **FastAPI**
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alfredo-allan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" alt="Github Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfredo-allan&theme=tokyonight&v=1" alt="GitHub Streak" height="180" />
 </div>
 
 ---
