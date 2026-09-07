@@ -260,10 +260,10 @@ Meu objetivo é participar da construção de soluções que não sejam apenas f
 
 <div align="center">
 
-<img 
+<!-- <img 
   height="170em" 
   src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alfredo-allan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-/>
+/> -->
 
 <img 
   height="170em" 
@@ -272,10 +272,10 @@ Meu objetivo é participar da construção de soluções que não sejam apenas f
 
 <br><br>
 
-<img 
+<!-- <img 
   height="170em" 
   src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alfredo-allan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-/>
+/> -->
 
 </div>
 
