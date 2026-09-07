@@ -1,4 +1,4 @@
-# 🧔🏾‍♂️ Alfredo Allan Teixeira Sousa
+# 🧙🏻‍♂️ Alfredo Allan Teixeira Sousa
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 👨🏾‍💻 Sobre mim
+## 🧑🏻‍💻 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor com foco em construção de aplicações modernas, boas práticas de desenvolvimento e segurança da informação.
 
@@ -255,17 +255,27 @@ Meu objetivo é participar da construção de soluções que não sejam apenas f
 
 ---
 
+
 # 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=alfredo-allan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img 
+  height="170em" 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alfredo-allan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+/>
 
-<img height="170em" src="https://streak-stats.demolab.com?user=alfredo-allan&theme=tokyonight&hide_border=true"/>
+<img 
+  height="170em" 
+  src="https://streak-stats.demolab.com?user=alfredo-allan&theme=tokyonight&hide_border=true"
+/>
 
 <br><br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredo-allan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img 
+  height="170em" 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alfredo-allan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+/>
 
 </div>
 
