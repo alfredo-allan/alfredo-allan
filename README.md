@@ -152,7 +152,7 @@ Fundamentos do sistema operacional Linux, linha de comando, estrutura de arquivo
 
 # 📚 Atualmente explorando
 
-<div align="center">
+<div align="left">
 
 🐍 **Python & Backend Development**
 
