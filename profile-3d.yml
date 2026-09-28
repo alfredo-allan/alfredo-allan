@@ -1,0 +1,42 @@
+# Gera o gráfico de contribuições em 3D (isométrico e animado)
+# e os cards de resumo em profile-3d-contrib/.
+name: Contribuições em 3D
+
+on:
+  schedule:
+    - cron: "20 3 * * *" # todo dia às 00:20 (horário de Brasília)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/profile-3d.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gerar gráfico 3D
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          # Com METRICS_TOKEN (opcional) as contribuições privadas também entram na contagem.
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit dos arquivos gerados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A profile-3d-contrib
+          if git commit -m "chore: atualiza gráfico 3D de contribuições"; then
+            git pull --rebase
+            git push
+          fi
